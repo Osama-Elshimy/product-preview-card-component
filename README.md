@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-# [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-jtyagQZGqI)
+# [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-hIcgu89TYc)
 # [Live Site URL](https://product-card-osama-elshimy.netlify.app/)
 
 ### Built with
