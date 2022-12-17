@@ -31,8 +31,10 @@ body {
 	width: 55rem;
 	display: flex;
 	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
 	border-radius: 1rem;
-	margin: 11rem auto;
+	margin: 0 auto;
 }
 
 /* MAIN SECTION */
@@ -45,6 +47,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 2rem;
+	height: 40rem;
 }
 
 /* IMAGE */
@@ -157,6 +160,8 @@ body {
 	.container {
 		display: flex;
 		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
 		width: 32rem;
 		margin: 3rem auto;
 		border-width: 0;
